@@ -1,0 +1,12 @@
+body{
+    color:green;
+}
+.my-class-1 a{
+    color:inherit;
+}
+.my-class-2 a{
+    color:reset;
+}
+.my-class-3 a{
+    color:upset;
+}
