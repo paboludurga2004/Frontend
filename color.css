@@ -1,0 +1,19 @@
+.box1{
+    padding:10px;
+    margin:0.5em 0;
+    border-radius:0.5em;
+    background-color: antiquewhite;
+}
+
+.box2{
+    padding:10px;
+    margin:0.5em 0;
+    border-radius:0.5em;
+    background-color: blueviolet;
+}
+.box3{
+    padding:10px;
+    margin:0.5em 0;
+    border-radius:0.5em;
+    background-color: greenyellow;
+}
