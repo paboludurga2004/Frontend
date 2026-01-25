@@ -1,7 +1,7 @@
 .wrapper {
   background-image: url("https://mdn.github.io/shared-assets/images/examples/balloons.jpg");
   background-repeat: no-repeat;
-  background-position: bottom left;
+  background-position: bottom center;
   padding: 20px;
 }
 
@@ -12,4 +12,5 @@
   border: 5px solid darkblue;
   padding: 30px;
   opacity: 0.6;
+
 }
